@@ -3,7 +3,7 @@ layout: single
 title:  "맥 단축키"
 ---
 
-![Untitled](%E1%84%86%E1%85%A2%E1%86%A8%20%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%8F%E1%85%B5%208d4e404036fa4e928b2afcaad2f215d7/Untitled.png)
+![iu](assets/img/iu.jpeg)
 
 # 많이 쓰는 단축키
 
