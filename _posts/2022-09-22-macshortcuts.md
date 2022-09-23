@@ -3,8 +3,6 @@ layout: single
 title:  "맥 단축키"
 ---
 
-![iu](assets/img/iu.jpeg)
-
 # 많이 쓰는 단축키
 
 ### 1. Mac `⌘ + D` & Window `Ctrl + D`[#](https://techwell.wooritech.com/blog/2021/03/19/VSC%EB%8B%A8%EC%B6%95%ED%82%A4/#1-mac-%E2%8C%98--d--window-ctrl--d)
