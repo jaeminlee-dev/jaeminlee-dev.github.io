@@ -1,6 +1,12 @@
 ---
 layout: single
 title:  "Flutter key가 왜 필요할까?"
+
+categories:
+  - 개발 정보
+tags:
+  - flutter
+  - key
 ---
 
 이전 Flutter 동작 원리를 이해하면 key의 필요성을 알 수 있다.

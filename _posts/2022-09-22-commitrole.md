@@ -1,6 +1,12 @@
 ---
 layout: single
 title:  "좋은 커밋 메세지를 작성하기 위한 규칙들"
+
+categories:
+  - 개발 정보
+tags:
+  - commit
+  - role
 ---
 
 

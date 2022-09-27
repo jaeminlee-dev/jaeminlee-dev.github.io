@@ -1,6 +1,11 @@
 ---
 layout: single
 title:  "트리구조란"
+categories:
+  - 개발 정보
+tags:
+  - Data Structure
+
 ---
 
 트리구조란?(Tree Structure)각 요소가 바로 아래에 있는 하나 이상의 요소에 연결되는 데이터 구조 유형입니다.

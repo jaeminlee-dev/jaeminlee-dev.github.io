@@ -1,6 +1,11 @@
 ---
 layout: single
-title:  "해상도란"
+title:  "해상도 란"
+
+categories:
+  - 개발 정보
+tags:
+  - 해상도
 ---
 
 ## 0. 해상도란 무엇일까

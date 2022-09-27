@@ -1,6 +1,12 @@
 ---
 layout: single
 title:  "맥 단축키"
+
+categories:
+  - 개인 학습
+tags:
+  - mac
+  - 단축키
 ---
 
 # 많이 쓰는 단축키
