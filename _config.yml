@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "잼민노트"
 title_separator          : "-"
-subtitle                 : 잼민이의 개발 일지
+subtitle                 : 잼민이의 일기, 학습 정리, 개발 내용 공유, 독서
 name                     : "Jaemin Lee"
 description              : "이재민의 개발"
 url                      : "https://jaeminlee-dev.github.io"
