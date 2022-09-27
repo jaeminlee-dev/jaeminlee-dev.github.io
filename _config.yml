@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "잼민노트"
 title_separator          : "-"
-subtitle                 : 일기, 학습 정리, 개발 내용 공유, 독서
-name                     : "Jaemin Lee"
-description              : "이재민의 개발"
+subtitle                 : "개발 공부, 독서, 일기"
+name                     : "이재민(Lee Jaemin)"
+description              : "매일 반복하는 공부 습관"
 url                      : "https://jaeminlee-dev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : jaeminlee-dev/jaeminlee-dev.github.io
@@ -218,7 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -284,12 +284,17 @@ defaults:
       path: "assets/img"
       type: posts
     values:
-      image: true
       layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-      values:
-        read_time: true
+  
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
