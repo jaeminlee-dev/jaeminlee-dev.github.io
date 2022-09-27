@@ -2,7 +2,6 @@
 layout: single
 title:  "FireStore를 공부해보자"
 ---
-# FireStore를 공부해보자
 
 FireStore는 Firebase문서에서 말했듯이 Firebase를 쓰는 가장 큰 이유다.
 
