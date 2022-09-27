@@ -293,3 +293,4 @@ defaults:
       related: true
       values:
         show_date: true
+        read_time: true
