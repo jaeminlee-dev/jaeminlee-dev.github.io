@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "잼민노트"
 title_separator          : "-"
 subtitle                 : "개발 공부, 독서, 일기"
