@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "잼민노트"
 title_separator          : "-"
-subtitle                 : 잼민이의 일기, 학습 정리, 개발 내용 공유, 독서
+subtitle                 : 일기, 학습 정리, 개발 내용 공유, 독서
 name                     : "Jaemin Lee"
 description              : "이재민의 개발"
 url                      : "https://jaeminlee-dev.github.io"
@@ -59,9 +59,9 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
-search_provider          : true # lunr (default), algolia, google
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaemin Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "오예~!!"
   location         : "Korea"
   email            : "ljm005302@gmail.com"
@@ -292,5 +292,4 @@ defaults:
       share: true
       related: true
       values:
-        show_date: true
         read_time: true
