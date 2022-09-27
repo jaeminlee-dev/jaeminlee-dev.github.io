@@ -1,4 +1,5 @@
 ---
+layout: single
 title:  "FireStore를 공부해보자"
 categories:
   - 개발 정보
